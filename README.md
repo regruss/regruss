@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a tool for data extraction and analysis of Clinical Trial Agreements. <br/>
-&emsp; &emsp; Check out a demo of my tool here: https://contract-data-demo.streamlit.app/
+&emsp; &emsp; - Check out a demo of my tool here: https://contract-data-demo.streamlit.app/
 - 🌱 I’m currently enhancing my knowledge of Natural Language Processing
 - 💬 Ask me about Golf or anything sports
 - 📫 How to reach me: regruss@gmail.com
