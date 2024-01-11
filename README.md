@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 😄
 -->
 
-- 🔭 I’m currently working on a tool for data extraction and analysis Clinical Trial Agreements.
+- 🔭 I’m currently working on a tool for data extraction and analysis Clinical Trial Agreements. <br/>
 Check out a demo of my tool here: https://contract-data-demo.streamlit.app/
 - 🌱 I’m currently enhancing my knowledge of Natural Language Processing
 - 💬 Ask me about Golf or anything sports
