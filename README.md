@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently enhancing my knowledge of Natural Language Processing
 - 💬 Ask me about Golf or anything sports
 - 📫 How to reach me: regruss@gmail.com
-- ⚡ Fun fact: I own a couple of Bakeries in Texas
+- ⚡ Fun fact: I own a couple of Bakeries
 
 
 
