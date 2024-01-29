@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently enhancing my knowledge of Natural Language Processing, specifically Named Entity Recognition using Spacy
   - Check out this playlist from Python for the Digital Humanities for more details - https://www.youtube.com/watch?v=E9h8qVm2uNY&list=PL2VXyKi-KpYs1bSnT8bfMFyGS-wMcjesM
 - 💬 Ask me about Golf or anything sports
-- 📫 How to reach me: regruss@gmail.com
 - ⚡ Fun fact: I own a couple of Bakeries
-
+- 📫 How to reach me: regruss@gmail.com
 
 
 
